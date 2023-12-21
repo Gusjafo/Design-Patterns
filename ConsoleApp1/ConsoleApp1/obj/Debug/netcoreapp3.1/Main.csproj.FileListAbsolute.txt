@@ -1,0 +1,17 @@
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Main.exe
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Main.deps.json
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Main.runtimeconfig.json
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Main.runtimeconfig.dev.json
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Main.dll
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Main.pdb
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Main.csproj.AssemblyReference.cache
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Main.AssemblyInfoInputs.cache
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Main.AssemblyInfo.cs
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Main.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Main.csproj.CopyComplete
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Main.dll
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Main.pdb
+C:\Users\gustavo.fonollosa\Desktop\Nueva carpeta\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Main.genruntimeconfig.cache
